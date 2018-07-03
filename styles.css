@@ -4,6 +4,15 @@ h1 {
     cursor: pointer;
 }
 
+h2 {
+    color: white;
+    background-color: violet;
+}
+
+p {
+    color: white;
+}
+
 body {
     background-color: black;
     border: 5px solid violet;
@@ -14,8 +23,4 @@ body {
 
 html {
     height: 100%;
-}
-
-h2 {
-    color: white;
 }
